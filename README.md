@@ -108,6 +108,15 @@ Response:
   }
 ]
 
+How to Test That Deployment Worked:- 
+Try these URLs in your browser:
+
+https://currency-api.vercel.app/api/quotes
+https://currency-api.vercel.app/api/average
+https://currency-api.vercel.app/api/slippage
+https://currency-api.vercel.app/health
+
+
 🧠 How It Works
 
 Puppeteer scrapes data from trusted ARS/USD websites.
